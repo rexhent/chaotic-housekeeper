@@ -1,0 +1,22 @@
+{
+  "name": "chaotic-housekeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexhent/chaotic-housekeeper.git"
+  },
+  "author": "rexhent",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rexhent/chaotic-housekeeper/issues"
+  },
+  "homepage": "https://github.com/rexhent/chaotic-housekeeper#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
